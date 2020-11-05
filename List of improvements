@@ -1,0 +1,29 @@
+
+
+- interpretacion de los movimientos de las piezas, en one hot encoding en 2-D
+
+- Creacion de los batches de entrenamiento, con un limite de movimientos validos a buscar por el espacio de estados
+
+- creacion del modelo del jugador "aka red"
+
+- modulo de serie temporal (varios movientos a futuro) del jugador
+
+- modulo de memoria de los movimientos tomados por ambos jugadores (podria ser el enlace?)
+
+- modulo de eleccion de movimientos, y seleccion de pieza a mover
+
+- modulo de reglas inmutables (aka reglas de juego)
+
+
+
+- iconos de piezas
+
+- sistema de vision de tablero, con refresco
+
+- funciones de reseteo
+
+               ocultar
+
+               cambio de velocidad del entrenamiento, y juego
+
+               posibilidad de proponer jugadas
